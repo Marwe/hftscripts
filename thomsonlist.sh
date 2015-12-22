@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# get thomsen reuters list
+# get thomson reuters list
 # http://ip-science.thomsonreuters.com/cgi-bin/jrnlst/jlresults.cgi?PC=MASTER
 # select format for print A-Z
 

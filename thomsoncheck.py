@@ -10,7 +10,7 @@ import gzip
 import re
 
 defaultfiles=[]
-defaultfiles.append(os.path.join(os.path.dirname(__file__),'journallist_thomsen.txt.gz'))
+defaultfiles.append(os.path.join(os.path.dirname(__file__),'journallist_thomson.txt.gz'))
 defaultfiles.append(os.path.join(os.path.dirname(__file__),'journallist_thum.txt'))
 
 
